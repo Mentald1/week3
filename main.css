@@ -1,0 +1,19 @@
+/* add the rule to change the color of the paragraph.*/
+/*target element*/
+p{
+    color: #3120E0;
+}
+H1{
+    color: #7DCE13;
+}
+ol{
+    color: #fb0431;
+}
+ul{
+    color: rgb(103, 12, 240);
+    
+}
+img{
+    opacity:1 ;
+    
+}
